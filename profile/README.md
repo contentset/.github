@@ -1,6 +1,6 @@
 ## Lorem Ipsum 👋
 
-Welcome to Content Set's organization on GitHub where we enjoy creating open, accessible, performant & cross platwform examples of applications using our open-source SDKs.
+Welcome to Content Set's organization on GitHub where we enjoy creating open, accessible, performant & cross platform examples of applications using our open-source SDKs.
 
 <!--
 
